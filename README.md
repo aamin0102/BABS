@@ -22,7 +22,10 @@ Paper Link: [Background-Aware Band Selection for Object Tracking in Hyperspectra
   journal={IEEE Geoscience and Remote Sensing Letters},
   year={2023},
   publisher={IEEE}
-}'''
+}
+```
+
+
 # Acknowledgment:
 We would like to thank the VITAL and BAE-Net works. We really appreciate their excellent open-source work.
 
