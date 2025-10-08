@@ -12,3 +12,15 @@ Paper Link: [Background-Aware Band Selection for Object Tracking in Hyperspectra
 | HOT 2022  | 0.616    | 0.901       |[HOT 2022](https://ieeexplore.ieee.org/document/10288536)|
 | HOT 2023  | 0.515    | 0.770       |[HOT 2023](https://ieeexplore.ieee.org/document/10288536)|
 | HOT 2024  | 0.381    | 0.576       |[HOT 2024](https://ieeexplore.ieee.org/document/10288536)|
+
+
+# If this work is helpful to you, please cite it as:
+'''
+@article{islam2023background,
+  title={Background-aware band selection for object tracking in hyperspectral videos},
+  author={Islam, Mohammad Aminul and Zhou, Jun and Zhang, Weichuan and Gao, Yongsheng},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2023},
+  publisher={IEEE}
+}
+'''
