@@ -9,9 +9,9 @@ Paper Link: [Background-Aware Band Selection for Object Tracking in Hyperspectra
 # Results
 |           | AUC      | DP@20pixels | Link    |
 |-----------|----------|-------------|---------|
-| HOT 2022  | 0.616    | 0.901       |[HOT 2022](https://ieeexplore.ieee.org/document/10288536)|
-| HOT 2023  | 0.515    | 0.770       |[HOT 2023](https://ieeexplore.ieee.org/document/10288536)|
-| HOT 2024  | 0.381    | 0.576       |[HOT 2024](https://ieeexplore.ieee.org/document/10288536)|
+| HOT 2022  | 0.616    | 0.901       |[HOT 2022](https://github.com/aamin0102/BABS/tree/main/HOT_2022)|
+| HOT 2023  | 0.515    | 0.770       |[HOT 2023](https://github.com/aamin0102/BABS/tree/main/HOT_2023)|
+| HOT 2024  | 0.381    | 0.576       |[HOT 2024](https://github.com/aamin0102/BABS/tree/main/HOT_2024)|
 
 
 # If this work is helpful to you, please cite it as:
