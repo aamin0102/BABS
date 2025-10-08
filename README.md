@@ -15,12 +15,14 @@ Paper Link: [Background-Aware Band Selection for Object Tracking in Hyperspectra
 
 
 # If this work is helpful to you, please cite it as:
-'''
+```bibtex
 @article{islam2023background,
   title={Background-aware band selection for object tracking in hyperspectral videos},
   author={Islam, Mohammad Aminul and Zhou, Jun and Zhang, Weichuan and Gao, Yongsheng},
   journal={IEEE Geoscience and Remote Sensing Letters},
   year={2023},
   publisher={IEEE}
-}
-'''
+}'''
+# Acknowledgment:
+We would like to thank the VITAL and BAE-Net works. We really appreciate their excellent open-source work.
+
